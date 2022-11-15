@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'joah-chambers-a03595249',
-        twitter: '',
+        twitter: 'february',
         github: 'jnchambers',
     },
 
